@@ -1,0 +1,22 @@
+{
+  "name": "nyt-google-books-search",
+  "version": "1.0.0",
+  "description": "A React-based Google Books Search application that requires React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. Also use Node, Express and MongoDB so that users can save books to review or purchase later.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paogemoua/nyt-google-books-search.git"
+  },
+  "keywords": [
+    "react-js"
+  ],
+  "author": "Paoge Moua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paogemoua/nyt-google-books-search/issues"
+  },
+  "homepage": "https://github.com/paogemoua/nyt-google-books-search#readme"
+}
